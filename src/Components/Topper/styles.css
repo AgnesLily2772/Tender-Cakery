@@ -1,0 +1,19 @@
+.topper{
+    background-color: #805A46;
+    color: white;
+    font-size: 15px;
+}
+button{
+    background-color: transparent;
+    cursor: pointer;
+    border: transparent;;
+    color: white;
+}
+.icons{
+    float: right;
+    cursor: pointer;
+    font-size: 20px;
+}
+a:hover{
+    background-color: firebrick;
+}
